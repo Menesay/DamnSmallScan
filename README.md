@@ -9,7 +9,7 @@ chmod +x damnsmallscan.sh
 
 # Run
 ```bash
-sudo ./damnsmallscan.sh 1.3.3.7
+./damnsmallscan.sh 1.3.3.7
 ```
 
 ***
